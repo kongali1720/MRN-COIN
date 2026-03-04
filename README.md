@@ -2,7 +2,7 @@
 
 # 👑 MajawangiRoyalNusantara COIN (MRN)
 
-<img src="https://raw.githubusercontent.com/kongali1720/MRN-COIN/main/logo-coin-final.png" width="220"/>
+<img src="https://raw.githubusercontent.com/kongali1720/MRN-COIN/main/logo-aslinya.png" width="220"/>
 
 <br><br>
 
