@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👑 MajawangiRoyalNusantara COIN (MRN)
+# 👑 MajawangiRoyalNusantara (MRN-COIN)
 
 <img src="https://raw.githubusercontent.com/kongali1720/MRN-COIN/main/logo-aslinya.png" width="220"/>
 
