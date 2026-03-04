@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<h1>👑 MajayawangiRoyalNusantara COIN (MRN)</h1>
+# 👑 MajawangiRoyalNusantara COIN (MRN)
 
 <img src="https://raw.githubusercontent.com/kongali1720/MRN-COIN/main/logo-coin-final.png" width="220"/>
 
@@ -25,9 +24,45 @@
 
 ## 🌏 Bridging Heritage with Blockchain
 
-**MajayawangiRoyalNusantara COIN (MRN)** adalah aset digital berbasis jaringan Ethereum yang mengintegrasikan nilai ekonomi tradisional Nusantara dengan efisiensi teknologi blockchain global.
+**MajawangiRoyalNusantara COIN (MRN)** adalah aset digital berbasis jaringan Ethereum yang mengintegrasikan nilai ekonomi tradisional Nusantara dengan efisiensi teknologi blockchain global.
 
 MRN dirancang sebagai token representatif ekosistem budaya, komoditas unggulan, dan ekonomi kreatif Indonesia.
+
+---
+
+# 🧠 MRN Architecture Overview
+
+```mermaid
+graph TD
+    subgraph Layer_0 [Infrastructure & Security]
+        A[Quantum-Proof Shield] --> B[MRN Hybrid-Layer Protocol]
+    end
+
+    subgraph Layer_1 [Core Mechanism]
+        B --> C{Proof-of-Logic Consensus}
+        C --> D[Adaptive AMM Engine]
+        C --> E[Validator Nodes]
+    end
+
+    subgraph Layer_2 [Utility & Services]
+        D --> F[MRN DEX / Swap]
+        E --> G[Staking Dashboard]
+        B --> H[Smart Contract API]
+    end
+
+    subgraph Layer_3 [End User Interface]
+        F --> I[Mobile Wallet App]
+        G --> I
+        H --> J[DApps Ecosystem]
+        I --> K((User MRN-COIN))
+        J --> K
+    end
+
+    style A fill:#00f2ff,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#7000ff,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#050505,stroke:#00f2ff,stroke-width:2px,color:#fff
+    style K fill:#ff00ea,stroke:#333,stroke-width:4px,color:#fff
+```
 
 ---
 
@@ -61,26 +96,24 @@ Agar MRN memiliki value jangka panjang dan fundamental kuat, token ini didukung 
 
 | Pilar Ekosistem | Penjelasan Profesional |
 |-----------------|------------------------|
-| 👑 **Royal Heritage Tourism** | MRN digunakan sebagai instrumen akses eksklusif (membership) atau alat pembayaran di destinasi wisata berbasis budaya/keraton yang bekerja sama dengan yayasan Nusantara. |
-| ☕ **Commodity Backed** | Alokasi dari keuntungan bisnis komoditas unggulan (Rempah, Kopi, Logam Mulia) digunakan untuk mekanisme Buyback & Burn guna menjaga kelangkaan MRN. |
-| 🛍 **Digital Marketplace** | Platform e-commerce premium yang hanya menerima MRN untuk produk seni dan kerajinan tangan bernilai tinggi dari berbagai daerah di Indonesia. |
+| 👑 **Royal Heritage Tourism** | MRN digunakan sebagai instrumen akses eksklusif (membership) atau alat pembayaran di destinasi wisata berbasis budaya/keraton. |
+| ☕ **Commodity Backed** | Keuntungan komoditas unggulan (Rempah, Kopi, Logam Mulia) dialokasikan untuk Buyback & Burn. |
+| 🛍 **Digital Marketplace** | Platform e-commerce premium berbasis MRN untuk produk seni dan kerajinan Nusantara. |
 
 ---
 
 # 📈 Mekanisme Nilai (Tokenomics Sustainability)
 
-> “Bagaimana harga MRN bisa naik?”
+## 🔥 Deflationary Value Model
 
-Jawabannya melalui **Deflationary Value Model**:
+### 1️⃣ Revenue Sharing
+Keuntungan ekosistem dikonversi menjadi MRN melalui pembelian di pasar terbuka.
 
-## 🔥 1. Revenue Sharing
-Sebagian keuntungan dari ekosistem riil dikonversi menjadi MRN melalui pembelian di pasar terbuka.
+### 2️⃣ Burn Mechanism
+Pengurangan supply melalui fungsi burn berkala di smart contract.
 
-## 🔥 2. Burn Mechanism
-Fungsi burn dalam smart contract akan memusnahkan sebagian token secara berkala untuk mengurangi supply.
-
-## 💎 3. Staking Rewards
-Pemegang MRN dapat mengunci token dan mendapatkan dividen digital dari hasil operasional ekosistem Nusantara.
+### 3️⃣ Staking Rewards
+Pemegang MRN dapat mengunci token untuk memperoleh dividen digital.
 
 ---
 
@@ -94,98 +127,28 @@ Pemegang MRN dapat mengunci token dan mendapatkan dividen digital dari hasil ope
 
 ---
 
-# 👑 MajayawangiRoyalNusantara
+# 🤝 Contributing
 
-**"Heritage. Sovereignty. Blockchain."**
+Kami terbuka terhadap kontribusi komunitas untuk mengembangkan MRN menjadi proyek yang kuat dan berkelanjutan.
 
-Kami sangat terbuka terhadap kontribusi dari siapa pun yang ingin mengembangkan **MajayawangiRoyalNusantara COIN (MRN)** menjadi proyek yang lebih kuat, aman, dan bermanfaat bagi banyak orang.
-
-💡 **Cara berkontribusi:**
-- Ajukan *Pull Request* untuk penambahan fitur atau perbaikan kode.
-- Buka *Issue* jika menemukan bug atau ide baru.
-- Diskusikan fitur inovatif untuk meningkatkan ekosistem MRN.
+**Cara berkontribusi:**
+- Ajukan *Pull Request*
+- Buka *Issue*
+- Diskusikan ide pengembangan ekosistem
 
 ---
 
-## ❤️ Dibuat Dengan Semangat
+## 👤 Founder
 
-### 👤 Kong Ali — (@kongali1720)  
+**Kong Ali — (@kongali1720)**  
 Founder & Developer  
 
 > _"Building the future of digital finance with clarity, transparency, and innovation."_
 
-Jika kamu menyukai proyek ini, jangan lupa beri ⭐ di repository!
-
 ---
 
 <div align="center">
 
-## ✅ Gaspol Coding Squad Indonesia! 🚀💻
-Belajar sambil praktek langsung.<br>
-Run it, understand it.<br>
-Mini project Python, Javascript & React-JS yang gak bikin ngantuk!  
-
-</div>
-
----
-
-<div align="center">
-
-## ☕ Buy Me a Coffee  
-
-<strong>Dukung terus biar semangat bikin karya edukatif lainnya...</strong><br><br>
-
-<a href="https://www.paypal.com/paypalme/bungtempong99" target="_blank">
-<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-PayPal-blue?style=for-the-badge&logo=paypal"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ❤️ Initiating Humanity Mode... for Down Syndrome
-
-<table align="center">
-<tr><th>Target</th><td>Anak-anak Pejuang Down Syndrome</td></tr>
-<tr><th>Status</th><td>Butuh Dukungan</td></tr>
-<tr><th>Aksi</th><td>Buka Hati + Klik Link = Senyum Baru</td></tr>
-</table>
-
-<br>
-
-<a href="https://mydonation4ds.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/SUPPORT--NOW-FF6600?style=for-the-badge&logo=heart&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💳 Dukungan Pembayaran Donasi
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" width="80"/>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" width="80"/>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/120px-PayPal_logo.svg.png" width="80"/>
-
-</div>
-
----
-
-<div align="center">
-
-Kalau project ini bermanfaat, kasih ⭐ ya!<br>
-Follow <a href="https://twitter.com/kongali1720" target="_blank">@kongali1720</a> 🔥  
-
-<br><br>
-
-<a href="https://twitter.com/kongali1720" target="_blank">
-<img src="https://img.shields.io/twitter/follow/kongali1720?style=social"/>
-</a>
+Jika project ini bermanfaat, jangan lupa beri ⭐ di repository!
 
 </div>
